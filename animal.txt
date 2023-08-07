@@ -1,3 +1,6 @@
 Tiger
 Lion
 Elephant
+Dear
+Bear
+Foxx
